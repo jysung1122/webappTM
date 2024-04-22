@@ -15,4 +15,4 @@
 4. PC에서 Live Server로 출력
 5. Github에 새REPO에 올리기
 6. Github에 웹앱으로 발행
-7. [netlify.com](https://www.netlify.com/) 무료서버에 웹앱으로 발행
+7. 또는 [netlify.com](https://www.netlify.com/) 무료서버에 웹앱으로 발행도 가능
