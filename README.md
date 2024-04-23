@@ -6,6 +6,7 @@
 - 웹캠 필요하며 강아지, 사람, 식물, 자동차 구분하는 기능
 - 웹앱으로 실행하기 - Setting - Pages - Branch - none->main - save
 - [여기를 클릭하세요](https://jysung1122.github.io/webappTM/)
+- [CSS 추가한 버전](https://github.com/jysung1122/webapp02)
 
 
 # 240422
